@@ -26,16 +26,9 @@ a{
 
 /*Határolóvonalak formázása*/
 hr{
-  /*  border-color: red;
-    background-color: red;
-    height: 1px;*/
-
-    
     border-color: red;
-
 }
 #hr2{
-    /*height: 0;*/
     margin-top: 10px;
     border: 0;
     background-color: red;
